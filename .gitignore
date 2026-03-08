@@ -1,3 +1,4 @@
 node_modules\n.next\n.env.local\n/tmp
 .env.local
 node_modules/
+.vercel
